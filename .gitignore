@@ -1,9 +1,7 @@
 *.pyc
 *~
 __pycache__
-mnenv/
+mnenv
 db.sqlite3
 /static
 .DS_Store
-.idea/
-requirements.txt
